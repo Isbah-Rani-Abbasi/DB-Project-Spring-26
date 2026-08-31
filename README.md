@@ -1,29 +1,29 @@
-# 📚 Course Registration System
+# Course Registration System
 
 A full-stack web application that allows students to register and enroll in courses, and enables admins to manage the entire course catalog — built with **React**, **Python/Flask**, and **Supabase**.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👩‍🎓 Student
+### Student
 - Register and log in securely
 - Browse available courses
 - Enroll in courses
 - View personal timetable/schedule
 
-### 🛠️ Admin
+### Admin
 - Add, update, and delete courses
 - Manage student enrollments
 - View all registered students and course capacities
 
-###👩‍🏫 Teacher
+###Teacher
 
 View assigned courses
 View enrolled students
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer      | Technology          |
 |------------|---------------------|
@@ -34,7 +34,7 @@ View enrolled students
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - Node.js & npm
@@ -62,6 +62,4 @@ npm start
 ```
 
 
-## 📄 License
 
-This project was developed as part of a university Database course (Spring 2026).
